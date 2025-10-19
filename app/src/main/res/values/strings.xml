@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">UserProfileApp</string>
+    <string name="enter_name">Введите имя</string>
+    <string name="age">Возраст</string>
+    <string name="gender">Пол</string>
+    <string name="male">Мужской</string>
+    <string name="female">Женский</string>
+    <string name="subscribe">Хочу получать новости</string>
+    <string name="send">Отправить</string>
+    <string name="summary_title">Результат:</string>
+    <string name="error_name">Имя не может быть пустым</string>
+</resources>
